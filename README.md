@@ -1,4 +1,4 @@
-# R Code and Data for: "Bayesian semi-parametric approaches to normal/independent and elliptical distributions"
+# R Code for: "Bayesian semi-parametric approaches to normal/independent and elliptical distributions"
 
 This repository contains R scripts and data used for the analyses in the research paper:
 
