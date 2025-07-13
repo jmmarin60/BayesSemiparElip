@@ -1,6 +1,6 @@
 # R Code for: "Bayesian semi-parametric approaches to normal/independent and elliptical distributions"
 
-This repository contains R scripts and data used for the analyses in the research paper:
+This repository contains R scripts used for the analyses in the research paper:
 
 **"Bayesian semi-parametric approaches to normal/independent and elliptical distributions"**  
 Author Names: M. Remedios Sillero-Denamiel, J. Miguel Marin, Pepa Ramirez-Cobo, Fabrizio Ruggeri, and Michael P. Wiper
